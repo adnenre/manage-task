@@ -1,17 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## manage task
+## Manage task
+Simple project to manage tasks using react
 
-simple project to manage tasks using react
-###  `git clone 'url of the repo'`
+### `Download the project` 
+git clone 'url of the repo
 
-download the project 
+### `Install dependencie`
+npm install
 
-### `npm install`
-
-install dependencie
-
-### `npm test`
-
-start the project in Dev mode
-
+### `Start the project in Dev mode`
+npm start
