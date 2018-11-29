@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Manage task
 Simple project to manage tasks using react
-
+[Demo](https://adnenre.github.io/manage-task/)
 ### `Download the project` 
 git clone 'url of the repo
 
